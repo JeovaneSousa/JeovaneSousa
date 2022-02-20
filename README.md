@@ -2,7 +2,7 @@
 
 I'm a technology enthusiast , Jiu Jitsu Practitioner, and guitar player.
 
-But, most importantly, I'm a future Software Developer in constant and eternal learning process.
+But, most importantly, I'm a Software Developer in constant and eternal learning process.
 
 I'm fully committed to improve daily and learn constantly about this vast and incredible field of study.
 
