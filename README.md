@@ -1,13 +1,25 @@
-👋 Hi, I’m @JeovaneSousa
+<h5>
+  <code>
+    <a href="https://www.linkedin.com/in/jeovanesousa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+  </code>
+</h5>
 
-I'm a technology enthusiast , Jiu Jitsu Practitioner, and guitar player.
+💻 Hi! I'm currently working as a BackEnd Intern at a DevOps.
 
-But, most importantly, I'm a Software Developer in constant and eternal learning process.
+📚 I’m currently learning DevOps automation. I'm also learning Java and Python for Backend Development. 
 
-I'm fully committed to improve daily and learn constantly about this vast and incredible field of study.
+📫 How to reach me: <a href="mailto: jeovanesousa@icloud.com">jeovanesousa@icloud.com</a>
 
-I use platforms such as Digital Innovation One, Datacamp, Udemy and EDX to learn new skills. I'm also currently enrolled in a System Analysis and Development degree at Estácio University
+### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
+<hr>
+<br>
+<p>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Spring" height="25" src="images/spring.svg"></code>
+</p>
+<hr>
 
-
-
-"The journey is the destination."
+💬 "The journey is the destination."
