@@ -1,6 +1,6 @@
 <h5>
   <code>
-    <a href="https://www.linkedin.com/in/jeovanesousa/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jeovanesousa/" title="LinkedIn Profile"><img width="22" src="https://www.cidademarketing.com.br/marketing/wp-content/uploads/2018/12/linkedin.jpg"> LinkedIn</a>
   </code>
 </h5>
 
@@ -14,11 +14,11 @@
 <hr>
 <br>
 <p>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Spring" height="25" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png"></code>
+  <code><img title="Java" height="25" src="https://img2.gratispng.com/20180824/izg/kisspng-java-development-kit-oracle-corporation-programmin-java-development-services-and-programming-help-5b7fb1a9a789e7.8654124115350952096862.jpg"></code>
+  <code><img title="Python" height="25" src="https://logospng.org/download/python/logo-python-1024.png"></code>
+  <code><img title="Git" height="25" src="https://git-scm.com/images/logos/1color-lightbg@2x.png"></code>
+  <code><img title="GitHub" height="25" src="https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png"></code>
+  <code><img title="Spring" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"></code>
 </p>
 <hr>
 
