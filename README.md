@@ -18,7 +18,7 @@
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Spring" height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FSpring_Framework&psig=AOvVaw2gcso0D0G8xQDBsbIFymzM&ust=1647820434438000&source=images&cd=vfe&ved=2ahUKEwiRrrrOr9P2AhVJSbgEHTUYBFEQjRx6BAgAEAk"></code>
+  <code><img title="Spring" height="25" src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png"></code>
 </p>
 <hr>
 
