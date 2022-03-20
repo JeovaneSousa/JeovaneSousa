@@ -1,8 +1,8 @@
-<h5>
+<h3>
   <code>
     <a href="https://www.linkedin.com/in/jeovanesousa/" title="in"><img width="24" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-15.jpg"> LinkedIn</a>
   </code>
-</h5>
+</h3>
 
 💻 Hi! I'm currently working as a BackEnd Intern at a DevOps.
 
