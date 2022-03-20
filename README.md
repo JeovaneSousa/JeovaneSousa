@@ -1,6 +1,6 @@
 <h5>
   <code>
-    <a href="https://www.linkedin.com/in/jeovanesousa/" title="LinkedIn Profile"><img width="22" src="https://www.cidademarketing.com.br/marketing/wp-content/uploads/2018/12/linkedin.jpg"> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jeovanesousa/" title="LinkedIn Profile"><img width="22" src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-15.jpg"> LinkedIn</a>
   </code>
 </h5>
 
@@ -15,9 +15,9 @@
 <br>
 <p>
   <code><img title="Java" height="25" src="https://img2.gratispng.com/20180824/izg/kisspng-java-development-kit-oracle-corporation-programmin-java-development-services-and-programming-help-5b7fb1a9a789e7.8654124115350952096862.jpg"></code>
-  <code><img title="Python" height="25" src="https://logospng.org/download/python/logo-python-1024.png"></code>
-  <code><img title="Git" height="25" src="https://git-scm.com/images/logos/1color-lightbg@2x.png"></code>
-  <code><img title="GitHub" height="25" src="https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png"></code>
+  <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
+  <code><img title="Git" height="25" src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg"></code>
+  <code><img title="GitHub" height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
   <code><img title="Spring" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"></code>
 </p>
 <hr>
