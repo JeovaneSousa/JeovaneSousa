@@ -4,7 +4,7 @@
   </code>
 </h3>
 
-💻 Hi! I'm currently working as a BackEnd Intern at a DevOps.
+💻 Hi! I'm currently working as a BackEnd Intern in a DevOps Team at Vertigo Tecnology corporation.
 
 📚 I’m currently learning DevOps automation. I'm also learning Java and Python for Backend Development. 
 
