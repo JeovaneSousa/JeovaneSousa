@@ -19,7 +19,7 @@
   <code><img title="Git" height="25" src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg"></code>
   <code><img title="GitHub" height="25" src="https://d1mjtvp3d1g20r.cloudfront.net/2019/11/04083733/GitHub.jpg"></code>
   <code><img title="Spring" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"></code>
-  <code><img title="Quarkus" height="25" src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_vertical_rgb_1280px_reverse_blackbkg.png"></code>
+  <code><img title="Quarkus" height="25" src="https://www.enterpriseai.news/wp-content/uploads/2019/11/Quarkus_looser.png"></code>
 </p>
 <hr>
 
