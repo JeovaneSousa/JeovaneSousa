@@ -4,9 +4,9 @@
   </code>
 </h3>
 
-💻 Hi! I'm currently working as a BackEnd Intern in a DevOps Team at Vertigo Tecnology corporation.
+💻 Hi! I'm currently working as an Early Associate Developer at IBM.
 
-📚 I’m currently learning DevOps automation. I'm also learning Java and Python for Backend Development. 
+📚 I’m currently learning DevOps (Containers and cloud services). I'm also learning Python for Backend Development and Data Science. 
 
 📫 How to reach me: <a href="mailto: jeovanesousa@icloud.com">jeovanesousa@icloud.com</a>
 
