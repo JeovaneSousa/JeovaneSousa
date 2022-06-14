@@ -6,7 +6,7 @@
 
 💻 Hi! I'm currently working as an Early Associate Developer at IBM.
 
-📚 I’m currently learning DevOps (Containers and cloud services). I'm also learning Python for Backend Development and Data Science. 
+📚 I'm also learning about Java for backend Development and Python for Data Science. 
 
 📫 How to reach me: <a href="mailto: jeovanesousa@icloud.com">jeovanesousa@icloud.com</a>
 
