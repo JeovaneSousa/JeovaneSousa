@@ -16,10 +16,7 @@
 <p>
   <code><img title="Java" height="25" src="https://img2.gratispng.com/20180824/izg/kisspng-java-development-kit-oracle-corporation-programmin-java-development-services-and-programming-help-5b7fb1a9a789e7.8654124115350952096862.jpg"></code>
   <code><img title="Python" height="25" src="https://logosmarcas.net/wp-content/uploads/2021/10/Python-Emblema.jpg"></code>
-  <code><img title="Git" height="25" src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg"></code>
-  <code><img title="GitHub" height="25" src="https://d1mjtvp3d1g20r.cloudfront.net/2019/11/04083733/GitHub.jpg"></code>
   <code><img title="Spring" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"></code>
-  <code><img title="Quarkus" height="25" src="https://www.enterpriseai.news/wp-content/uploads/2019/11/Quarkus_looser.png"></code>
 </p>
 <hr>
 
