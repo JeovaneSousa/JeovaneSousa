@@ -14,7 +14,8 @@
 <hr>
 <br>
 <p>
-<code><img title="Apple" height="25" src="https://classic.exame.com/wp-content/uploads/2016/12/logo-apple.jpg?quality=70&strip=info&w=383"></code>
+<code><img title="Apple" height="25" src="https://edrodrigues.com.br/wp-content/uploads/2020/07/historia-do-logotipo-da-apple-tudo-sobre-o-apple-logo-evolution-5.jpg"></code>
+<code><img title="Swift" height="25" src="https://ih0.redbubble.net/image.415946483.7473/flat,1000x1000,075,f.u1.jpg"></code>
   <code><img title="Java" height="25" src="https://img2.gratispng.com/20180824/izg/kisspng-java-development-kit-oracle-corporation-programmin-java-development-services-and-programming-help-5b7fb1a9a789e7.8654124115350952096862.jpg"></code>
   <code><img title="Python" height="25" src="https://logosmarcas.net/wp-content/uploads/2021/10/Python-Emblema.jpg"></code>
   <code><img title="Spring" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"></code>
