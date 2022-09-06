@@ -4,9 +4,9 @@
   </code>
 </h3>
 
-💻 Hi! I'm currently working as an Early Associate Developer at IBM.
+💻 Hi! I'm currently working as a Mobile IOS Developer at Zup Innovation.
 
-📚 I'm also learning about Java and Python for backend Development and Automation.
+📚 I`m studying IOS development and swift.
 
 📫 How to reach me: <a href="mailto: jeovanesousa@icloud.com">jeovanesousa@icloud.com</a>
 
@@ -14,6 +14,7 @@
 <hr>
 <br>
 <p>
+<code><img title="Apple" height="25" src="https://classic.exame.com/wp-content/uploads/2016/12/logo-apple.jpg?quality=70&strip=info&w=383"></code>
   <code><img title="Java" height="25" src="https://img2.gratispng.com/20180824/izg/kisspng-java-development-kit-oracle-corporation-programmin-java-development-services-and-programming-help-5b7fb1a9a789e7.8654124115350952096862.jpg"></code>
   <code><img title="Python" height="25" src="https://logosmarcas.net/wp-content/uploads/2021/10/Python-Emblema.jpg"></code>
   <code><img title="Spring" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png"></code>
