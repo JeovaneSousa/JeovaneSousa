@@ -1,6 +1,4 @@
 
-💻 Hi! I'm currently working as a Mobile IOS Developer at Zup Innovation.
-
 📫 How to reach me: <a href="mailto: jeovanesousa@icloud.com">jeovanesousa@icloud.com</a>
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
